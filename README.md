@@ -6,7 +6,7 @@ Shibli National College Website Clone
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![shibli_national_college_website](https://github.com/AbuZaid55/shibli_national_college_website/assets/115403447/0699ea0c-fba5-40ef-9778-ac197d342e56)
 
 
 ## 🔗 Links
