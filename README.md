@@ -1,5 +1,5 @@
 
-# Gym Joining Form
+# Shibli National College
 
 Shibli National College Website Clone
 
